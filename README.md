@@ -67,7 +67,7 @@
 
 <img width="413" height="390" alt="Image" src="https://github.com/user-attachments/assets/64355d8a-396d-4221-a773-a73220ad8ba7" />
 
-**下单地址**：[gpt108.com](https://gpt108.com)
+**地址**：[gpt108.com](https://gpt108.com)
 
 - 请自助下单充值
 - 可联系客服代充
