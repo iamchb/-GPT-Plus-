@@ -28,12 +28,15 @@
 
 使用教程
 1.点击上图的自助兑换
+
 <img width="1280" height="839" alt="Image" src="https://github.com/user-attachments/assets/02ca2e54-751e-4ec7-bf54-d29114b6c519" />
 
 2.下单成功您将会在卡密中看到充值密钥，复制并打开我们的充值网站 粘贴卡密，点击 “验证卡密”
+
 <img width="1280" height="1048" alt="Image" src="https://github.com/user-attachments/assets/8314f9b8-956c-44d4-adf7-6b9b789ccbf5" />
 
 3.登陆您的OpenAI账户并点击“我已登陆”，然后出现如下页面，按步骤操作即可。
+
 <img width="1280" height="916" alt="Image" src="https://github.com/user-attachments/assets/e303c6b2-34ed-4244-a92a-a95552380b08" />
 
 核对账户后开始自动充值。
@@ -48,8 +51,11 @@
 1个月的套餐到期后可继续续费。
 
 **联系我们**
-下单地址 gpt108.com 请自助下单充值，可联系客服代充(**我们是正规公司，加的是企业微信，商铺有押金**)。
+下单地址 **gpt108.com** 请自助下单充值，可联系客服代充(**我们是正规公司，加的是企业微信，商铺有押金**)。
 
 <img width="413" height="390" alt="Image" src="https://github.com/user-attachments/assets/64355d8a-396d-4221-a773-a73220ad8ba7" />
 
-联系我们 gpt108.com
+联系我们 **gpt108.com**
+
+
+
