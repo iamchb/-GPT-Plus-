@@ -1,6 +1,6 @@
 <img width="1024" height="559" alt="Image" src="https://github.com/user-attachments/assets/481458f2-39b0-461b-8d24-1441aae0496c" />
 
-## 如何低价自动充值 OpenAI ChatGPT Plus 会员
+## 国内用户如何自动充值 ChatGPT Plus 会员
 
 ### 核心优势
 - ✅ 使用SSL安全加密协议，全程自助充值
@@ -8,7 +8,8 @@
 - ✅ 充值安全性 **99%** 充值成功率 **100%**
 - ℹ️ 目前提供正规iOS渠道充值，也支持卡付渠道充值
 
-<img width="1403" height="785" alt="Image" src="https://github.com/user-attachments/assets/1e8e8744-f493-4198-bdef-81ba85b874b3" />
+<img width="1398" height="780" alt="微信图片_20260605153655_2484_65" src="https://github.com/user-attachments/assets/2cd79599-9ce3-4ff7-bd71-6ef86dece113" />
+
 
 ---
 
